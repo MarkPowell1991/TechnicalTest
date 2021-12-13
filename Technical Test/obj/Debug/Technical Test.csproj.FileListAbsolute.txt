@@ -1,0 +1,10 @@
+C:\Users\damdi\source\repos\Technical Test\Technical Test\obj\Debug\Technical Test.csproj.AssemblyReference.cache
+C:\Users\damdi\source\repos\Technical Test\Technical Test\obj\Debug\Technical Test.csproj.CoreCompileInputs.cache
+C:\Users\damdi\source\repos\Technical Test\Technical Test\bin\Debug\Technical Test.exe.config
+C:\Users\damdi\source\repos\Technical Test\Technical Test\bin\Debug\Technical Test.exe
+C:\Users\damdi\source\repos\Technical Test\Technical Test\bin\Debug\Technical Test.pdb
+C:\Users\damdi\source\repos\Technical Test\Technical Test\obj\Debug\Technical Test.exe
+C:\Users\damdi\source\repos\Technical Test\Technical Test\obj\Debug\Technical Test.pdb
+C:\Users\damdi\source\repos\Technical Test\Technical Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\damdi\source\repos\Technical Test\Technical Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\damdi\source\repos\Technical Test\Technical Test\obj\Debug\Technical Test.csproj.CopyComplete
